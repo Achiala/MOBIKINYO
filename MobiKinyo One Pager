@@ -1,0 +1,58 @@
+THE TECHNICAL UNIVERSITY OF KENYA
+SCCI/03779P/2019.
+ACHIALA SAMMY
+PROJECT: MOBIKINYO
+
+PROJECT SCOPE
+OVERVIEW
+1.	PROJECT BACKGROUND AND DESCRIPTION
+Searching out for the best barbershops or hair salons within your vicinity is a very tiresome task. Also, visiting a barbershop or salon without a prior appointment booking can keep you waiting in a queue thereby taking away your precious time. MOBIKINYO is an android based barbershop application that will help solve this problem. By entering a location this android app will generate a list of nearby barbershops and salons. Both the barbershop owners and users can access the application by registering themselves on the app by submitting the necessary details. The barbershop owners can update their profiles by adding photos and a list of services provided by them. The users can view the shops' profiles, photos and services, based on which they can book an appointment as per their desired time  in their favourite shops. The users can even request the service to be brought to the comfort of their house and they can also review and rate a shop through this app
+
+2.	PROJECT SCOPE
+Barber Application is used for booking barber services through android application. Admin is the authorized user who will verify Barber shop & its services. Admin can also block any barber account if needed. User can get a list of all the Barber shops nearby on Map and check and book its services. Barber can check the bookings and accordingly manage them.
+
+
+
+
+3.	SYSTEM DESCRIPTION
+The system comprises of 3 major modules with their sub-modules as follows:
+I.	User:
+•	Register: User can register using personal details.
+•	Login: User can login in his personal account using id and password.
+•	Profile: User can update profile & change password
+                         Show Map - With my location & nearby barber shops
+-	change location
+•	Barber Shop: 
+-	Shop Details
+-	Services
+-	Reviews & Ratings
+-	Select date & time & book
+•	Bookings: 
+	All bookings - Filter by date/status
+-	Cancel if not accepted
+•	Notification – Booking status updated by barbershop
+
+
+II.	Barbershop:
+•	Register: Barber can register using personal details & shop details such as upload photos & update location
+•	Login: Barber can login his account using id and password
+•	Profile: Update profile & change password
+•	Home: Check new request (if any)
+-	Check Details
+-	Accept/Reject Request
+•	Services: Add/update/delete/view services
+-	Add service details, price & photo
+•	Bookings: All bookings - filter by date/status
+•	Feedback: Reviews & Ratings
+•	Notification: New request & Admin action on barber account
+
+III.	Admin
+•	View new Request - View all shop details & services
+-	Accept/Reject
+•	View Shops - View all shop details & services
+-	Block/Unblock
+•	View User - view user details
+
+
+
+
